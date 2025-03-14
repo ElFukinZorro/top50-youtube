@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rauw Alejandro - Canciones y Álbumes</title>
+</head>
+<body>
+    <h1>Rauw Alejandro</h1>
+    <h2>Álbumes</h2>
+    <ul>
+        <li>Álbum 1</li>
+        <li>Álbum 2</li>
+    </ul>
+
+    <h2>Canciones más populares</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=ID_DEL_VIDEO">Canción 1</a> - 100M vistas</li>
+        <li><a href="https://www.youtube.com/watch?v=ID_DEL_VIDEO">Canción 2</a> - 80M vistas</li>
+        <!-- Agrega más canciones aquí -->
+    </ul>
+
+    <a href="index.html">Volver a la lista de artistas</a>
+</body>
+</html>
