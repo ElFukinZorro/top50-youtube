@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top 50 Artistas de YouTube</title>
+</head>
+<body>
+    <h1>Top 50 Artistas Más Escuchados en YouTube</h1>
+    <ul>
+        <li><a href="rauw.html">Rauw Alejandro</a></li>
+        <li><a href="badbunny.html">Bad Bunny</a></li>
+        <!-- Agrega más artistas aquí -->
+    </ul>
+</body>
+</html>
